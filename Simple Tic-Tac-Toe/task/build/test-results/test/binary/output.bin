@@ -1,0 +1,996 @@
+[1;31m
+Start test 1[0m
+---------
+|       |
+|       |
+|       |
+---------
+Enter Coordinates: > 1 3
+---------
+| _ _ X |
+| _ _ _ |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 3 1
+---------
+| _ _ X |
+| _ _ _ |
+| O _ _ |
+---------
+Game not finished
+Enter Coordinates: > 2 3
+---------
+| _ _ X |
+| _ _ X |
+| O _ _ |
+---------
+Game not finished
+Enter Coordinates: > 2 4
+$Coordinates should be from 1 to 3!
+---------
+| _ _ X |
+| _ _ X |
+| O _ _ |
+---------
+Game not finished
+Enter Coordinates: > 2 3
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 3 1
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 1 2
+---------
+| _ O X |
+| _ _ X |
+| O _ _ |
+---------
+Game not finished
+Enter Coordinates: > 4 3
+$Coordinates should be from 1 to 3!
+---------
+| _ O X |
+| _ _ X |
+| O _ _ |
+---------
+Game not finished
+Enter Coordinates: > 3 1
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 1 2
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 1 1
+---------
+| X O X |
+| _ _ X |
+| O _ _ |
+---------
+Game not finished
+Enter Coordinates: > 1 2
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 1 3
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 2 1
+---------
+| X O X |
+| O _ X |
+| O _ _ |
+---------
+Game not finished
+Enter Coordinates: > 2 2
+---------
+| X O X |
+| O X X |
+| O _ _ |
+---------
+Game not finished
+Enter Coordinates: > 2 3
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 3 1
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 3 2
+---------
+| X O X |
+| O X X |
+| O O _ |
+---------
+Game not finished
+Enter Coordinates: > 3 3
+---------
+| X O X |
+| O X X |
+| O O X |
+---------
+X wins
+[1;31m
+Start test 2[0m
+---------
+|       |
+|       |
+|       |
+---------
+Enter Coordinates: > 4 1
+$Coordinates should be from 1 to 3!
+---------
+| _ _ _ |
+| _ _ _ |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 1 3
+---------
+| _ _ X |
+| _ _ _ |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 3 4
+$Coordinates should be from 1 to 3!
+---------
+| _ _ X |
+| _ _ _ |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 1 1
+---------
+| O _ X |
+| _ _ _ |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 2 1
+---------
+| O _ X |
+| X _ _ |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 2 4
+$Coordinates should be from 1 to 3!
+---------
+| O _ X |
+| X _ _ |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 4 3
+$Coordinates should be from 1 to 3!
+---------
+| O _ X |
+| X _ _ |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 3 2
+---------
+| O _ X |
+| X _ _ |
+| _ O _ |
+---------
+Game not finished
+Enter Coordinates: > 3 2
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 3 3
+---------
+| O _ X |
+| X _ _ |
+| _ O X |
+---------
+Game not finished
+Enter Coordinates: > 1 4
+$Coordinates should be from 1 to 3!
+---------
+| O _ X |
+| X _ _ |
+| _ O X |
+---------
+Game not finished
+Enter Coordinates: > 1 2
+---------
+| O O X |
+| X _ _ |
+| _ O X |
+---------
+Game not finished
+Enter Coordinates: > 1 3
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 2 1
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 2 2
+---------
+| O O X |
+| X X _ |
+| _ O X |
+---------
+Game not finished
+Enter Coordinates: > 2 3
+---------
+| O O X |
+| X X O |
+| _ O X |
+---------
+Game not finished
+Enter Coordinates: > 3 1
+---------
+| O O X |
+| X X O |
+| X O X |
+---------
+X wins
+[1;31m
+Start test 3[0m
+---------
+|       |
+|       |
+|       |
+---------
+Enter Coordinates: > 3 2
+---------
+| _ _ _ |
+| _ _ _ |
+| _ X _ |
+---------
+Game not finished
+Enter Coordinates: > 2 1
+---------
+| _ _ _ |
+| O _ _ |
+| _ X _ |
+---------
+Game not finished
+Enter Coordinates: > 1 4
+$Coordinates should be from 1 to 3!
+---------
+| _ _ _ |
+| O _ _ |
+| _ X _ |
+---------
+Game not finished
+Enter Coordinates: > 2 4
+$Coordinates should be from 1 to 3!
+---------
+| _ _ _ |
+| O _ _ |
+| _ X _ |
+---------
+Game not finished
+Enter Coordinates: > 3 3
+---------
+| _ _ _ |
+| O _ _ |
+| _ X X |
+---------
+Game not finished
+Enter Coordinates: > 4 3
+$Coordinates should be from 1 to 3!
+---------
+| _ _ _ |
+| O _ _ |
+| _ X X |
+---------
+Game not finished
+Enter Coordinates: > 4 1
+$Coordinates should be from 1 to 3!
+---------
+| _ _ _ |
+| O _ _ |
+| _ X X |
+---------
+Game not finished
+Enter Coordinates: > 3 4
+$Coordinates should be from 1 to 3!
+---------
+| _ _ _ |
+| O _ _ |
+| _ X X |
+---------
+Game not finished
+Enter Coordinates: > 3 4
+$Coordinates should be from 1 to 3!
+---------
+| _ _ _ |
+| O _ _ |
+| _ X X |
+---------
+Game not finished
+Enter Coordinates: > 2 4
+$Coordinates should be from 1 to 3!
+---------
+| _ _ _ |
+| O _ _ |
+| _ X X |
+---------
+Game not finished
+Enter Coordinates: > 1 3
+---------
+| _ _ O |
+| O _ _ |
+| _ X X |
+---------
+Game not finished
+Enter Coordinates: > 2 1
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 2 2
+---------
+| _ _ O |
+| O X _ |
+| _ X X |
+---------
+Game not finished
+Enter Coordinates: > 2 3
+---------
+| _ _ O |
+| O X O |
+| _ X X |
+---------
+Game not finished
+Enter Coordinates: > 3 1
+---------
+| _ _ O |
+| O X O |
+| X X X |
+---------
+X wins
+[1;31m
+Start test 4[0m
+---------
+|       |
+|       |
+|       |
+---------
+Enter Coordinates: > 4 3
+$Coordinates should be from 1 to 3!
+---------
+| _ _ _ |
+| _ _ _ |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 1 1
+---------
+| X _ _ |
+| _ _ _ |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 3 1
+---------
+| X _ _ |
+| _ _ _ |
+| O _ _ |
+---------
+Game not finished
+Enter Coordinates: > 2 4
+$Coordinates should be from 1 to 3!
+---------
+| X _ _ |
+| _ _ _ |
+| O _ _ |
+---------
+Game not finished
+Enter Coordinates: > 1 1
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 4 2
+$Coordinates should be from 1 to 3!
+---------
+| X _ _ |
+| _ _ _ |
+| O _ _ |
+---------
+Game not finished
+Enter Coordinates: > 2 3
+---------
+| X _ _ |
+| _ _ X |
+| O _ _ |
+---------
+Game not finished
+Enter Coordinates: > 3 4
+$Coordinates should be from 1 to 3!
+---------
+| X _ _ |
+| _ _ X |
+| O _ _ |
+---------
+Game not finished
+Enter Coordinates: > 1 4
+$Coordinates should be from 1 to 3!
+---------
+| X _ _ |
+| _ _ X |
+| O _ _ |
+---------
+Game not finished
+Enter Coordinates: > 2 3
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 4 4
+$Coordinates should be from 1 to 3!
+---------
+| X _ _ |
+| _ _ X |
+| O _ _ |
+---------
+Game not finished
+Enter Coordinates: > 2 1
+---------
+| X _ _ |
+| O _ X |
+| O _ _ |
+---------
+Game not finished
+Enter Coordinates: > 2 2
+---------
+| X _ _ |
+| O X X |
+| O _ _ |
+---------
+Game not finished
+Enter Coordinates: > 2 3
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 3 1
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 3 2
+---------
+| X _ _ |
+| O X X |
+| O O _ |
+---------
+Game not finished
+Enter Coordinates: > 3 3
+---------
+| X _ _ |
+| O X X |
+| O O X |
+---------
+X wins
+[1;31m
+Start test 5[0m
+---------
+|       |
+|       |
+|       |
+---------
+Enter Coordinates: > 4 1
+$Coordinates should be from 1 to 3!
+---------
+| _ _ _ |
+| _ _ _ |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 2 1
+---------
+| _ _ _ |
+| X _ _ |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 2 1
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 2 3
+---------
+| _ _ _ |
+| X _ O |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 4 4
+$Coordinates should be from 1 to 3!
+---------
+| _ _ _ |
+| X _ O |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 2 3
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 1 2
+---------
+| _ X _ |
+| X _ O |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 1 3
+---------
+| _ X O |
+| X _ O |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 2 2
+---------
+| _ X O |
+| X X O |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 4 1
+$Coordinates should be from 1 to 3!
+---------
+| _ X O |
+| X X O |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 2 2
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 2 3
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 3 1
+---------
+| _ X O |
+| X X O |
+| O _ _ |
+---------
+Game not finished
+Enter Coordinates: > 3 2
+---------
+| _ X O |
+| X X O |
+| O X _ |
+---------
+X wins
+[1;31m
+Start test 6[0m
+---------
+|       |
+|       |
+|       |
+---------
+Enter Coordinates: > 4 5
+$Coordinates should be from 1 to 3!
+---------
+| _ _ _ |
+| _ _ _ |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 3 2
+---------
+| _ _ _ |
+| _ _ _ |
+| _ X _ |
+---------
+Game not finished
+Enter Coordinates: > 3 4
+$Coordinates should be from 1 to 3!
+---------
+| _ _ _ |
+| _ _ _ |
+| _ X _ |
+---------
+Game not finished
+Enter Coordinates: > 2 2
+---------
+| _ _ _ |
+| _ O _ |
+| _ X _ |
+---------
+Game not finished
+Enter Coordinates: > 1 3
+---------
+| _ _ X |
+| _ O _ |
+| _ X _ |
+---------
+Game not finished
+Enter Coordinates: > 1 1
+---------
+| O _ X |
+| _ O _ |
+| _ X _ |
+---------
+Game not finished
+Enter Coordinates: > 1 2
+---------
+| O X X |
+| _ O _ |
+| _ X _ |
+---------
+Game not finished
+Enter Coordinates: > 1 2
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 3 1
+---------
+| O X X |
+| _ O _ |
+| O X _ |
+---------
+Game not finished
+Enter Coordinates: > 4 2
+$Coordinates should be from 1 to 3!
+---------
+| O X X |
+| _ O _ |
+| O X _ |
+---------
+Game not finished
+Enter Coordinates: > 3 3
+---------
+| O X X |
+| _ O _ |
+| O X X |
+---------
+Game not finished
+Enter Coordinates: > 2 3
+---------
+| O X X |
+| _ O O |
+| O X X |
+---------
+Game not finished
+Enter Coordinates: > 3 1
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 3 2
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 3 3
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 1 1
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 1 2
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 1 3
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 2 1
+---------
+| O X X |
+| X O O |
+| O X X |
+---------
+Draw
+[1;31m
+Start test 7[0m
+---------
+|       |
+|       |
+|       |
+---------
+Enter Coordinates: > 2 1
+---------
+| _ _ _ |
+| X _ _ |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 2 1
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 2 2
+---------
+| _ _ _ |
+| X O _ |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 3 2
+---------
+| _ _ _ |
+| X O _ |
+| _ X _ |
+---------
+Game not finished
+Enter Coordinates: > 2 3
+---------
+| _ _ _ |
+| X O O |
+| _ X _ |
+---------
+Game not finished
+Enter Coordinates: > 1 1
+---------
+| X _ _ |
+| X O O |
+| _ X _ |
+---------
+Game not finished
+Enter Coordinates: > 4 3
+$Coordinates should be from 1 to 3!
+---------
+| X _ _ |
+| X O O |
+| _ X _ |
+---------
+Game not finished
+Enter Coordinates: > 3 4
+$Coordinates should be from 1 to 3!
+---------
+| X _ _ |
+| X O O |
+| _ X _ |
+---------
+Game not finished
+Enter Coordinates: > 2 4
+$Coordinates should be from 1 to 3!
+---------
+| X _ _ |
+| X O O |
+| _ X _ |
+---------
+Game not finished
+Enter Coordinates: > 2 4
+$Coordinates should be from 1 to 3!
+---------
+| X _ _ |
+| X O O |
+| _ X _ |
+---------
+Game not finished
+Enter Coordinates: > 3 1
+---------
+| X _ _ |
+| X O O |
+| O X _ |
+---------
+Game not finished
+Enter Coordinates: > 3 2
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 3 3
+---------
+| X _ _ |
+| X O O |
+| O X X |
+---------
+Game not finished
+Enter Coordinates: > 1 1
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 1 2
+---------
+| X O _ |
+| X O O |
+| O X X |
+---------
+Game not finished
+Enter Coordinates: > 1 3
+---------
+| X O X |
+| X O O |
+| O X X |
+---------
+Draw
+[1;31m
+Start test 8[0m
+---------
+|       |
+|       |
+|       |
+---------
+Enter Coordinates: > 4 7
+$Coordinates should be from 1 to 3!
+---------
+| _ _ _ |
+| _ _ _ |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 4 3
+$Coordinates should be from 1 to 3!
+---------
+| _ _ _ |
+| _ _ _ |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 4 4
+$Coordinates should be from 1 to 3!
+---------
+| _ _ _ |
+| _ _ _ |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 2 1
+---------
+| _ _ _ |
+| X _ _ |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 1 3
+---------
+| _ _ O |
+| X _ _ |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 2 1
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 3 4
+$Coordinates should be from 1 to 3!
+---------
+| _ _ O |
+| X _ _ |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 4 4
+$Coordinates should be from 1 to 3!
+---------
+| _ _ O |
+| X _ _ |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 4 2
+$Coordinates should be from 1 to 3!
+---------
+| _ _ O |
+| X _ _ |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 1 2
+---------
+| _ X O |
+| X _ _ |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 4 3
+$Coordinates should be from 1 to 3!
+---------
+| _ X O |
+| X _ _ |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 3 2
+---------
+| _ X O |
+| X _ _ |
+| _ O _ |
+---------
+Game not finished
+Enter Coordinates: > 3 3
+---------
+| _ X O |
+| X _ _ |
+| _ O X |
+---------
+Game not finished
+Enter Coordinates: > 1 1
+---------
+| O X O |
+| X _ _ |
+| _ O X |
+---------
+Game not finished
+Enter Coordinates: > 1 2
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 1 3
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 2 1
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 2 2
+---------
+| O X O |
+| X X _ |
+| _ O X |
+---------
+Game not finished
+Enter Coordinates: > 2 3
+---------
+| O X O |
+| X X O |
+| _ O X |
+---------
+Game not finished
+Enter Coordinates: > 3 1
+---------
+| O X O |
+| X X O |
+| X O X |
+---------
+Draw
+[1;31m
+Start test 9[0m
+---------
+|       |
+|       |
+|       |
+---------
+Enter Coordinates: > 1 4
+$Coordinates should be from 1 to 3!
+---------
+| _ _ _ |
+| _ _ _ |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 2 4
+$Coordinates should be from 1 to 3!
+---------
+| _ _ _ |
+| _ _ _ |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 2 2
+---------
+| _ _ _ |
+| _ X _ |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 2 2
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 4 4
+$Coordinates should be from 1 to 3!
+---------
+| _ _ _ |
+| _ X _ |
+| _ _ _ |
+---------
+Game not finished
+Enter Coordinates: > 3 1
+---------
+| _ _ _ |
+| _ X _ |
+| O _ _ |
+---------
+Game not finished
+Enter Coordinates: > 1 3
+---------
+| _ _ X |
+| _ X _ |
+| O _ _ |
+---------
+Game not finished
+Enter Coordinates: > 4 2
+$Coordinates should be from 1 to 3!
+---------
+| _ _ X |
+| _ X _ |
+| O _ _ |
+---------
+Game not finished
+Enter Coordinates: > 2 2
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 3 3
+---------
+| _ _ X |
+| _ X _ |
+| O _ O |
+---------
+Game not finished
+Enter Coordinates: > 3 3
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 1 1
+---------
+| X _ X |
+| _ X _ |
+| O _ O |
+---------
+Game not finished
+Enter Coordinates: > 1 2
+---------
+| X O X |
+| _ X _ |
+| O _ O |
+---------
+Game not finished
+Enter Coordinates: > 1 3
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 2 1
+---------
+| X O X |
+| X X _ |
+| O _ O |
+---------
+Game not finished
+Enter Coordinates: > 2 2
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 2 3
+---------
+| X O X |
+| X X O |
+| O _ O |
+---------
+Game not finished
+Enter Coordinates: > 3 1
+,This cell is occupied! Choose another one!
+Enter Coordinates: > 3 2
+---------
+| X O X |
+| X X O |
+| O X O |
+---------
+Draw
